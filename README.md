@@ -160,3 +160,6 @@ MIT License - Feel free to use for educational purposes
 ---
 
 **Built with ❤️ for the data science community**
+
+for diploy - ## Live Demo
+[Click here to view the app](https://your-app-link.streamlit.app)
